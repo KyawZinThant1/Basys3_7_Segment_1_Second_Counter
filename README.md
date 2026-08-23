@@ -48,7 +48,7 @@ The design is fully synthesizable and can be programmed onto the Basys 3 board u
 ---
 # 7-Segment Multiplexing
 The four digits are displayed using time-division multiplexing.
-The refresh counter selects one digit at a time at ~763 Hz, making all digits appear continuously lit to the human eye
+The refresh counter selects one digit at a time at ~763 Hz, making all digits appear continuously lit to the human eye.
 
 # References & Acknowledgements
 Digilent Basys 3 Reference Manual
