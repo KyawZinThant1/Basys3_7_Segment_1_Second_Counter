@@ -55,6 +55,11 @@ Digilent Basys 3 Reference Manual
 Xilinx Vivado Documentation
 FPGA4Student.com – 7-Segment tutorials
 
+## 📸 Project Demo
+
+![Uploading Demo_2026-08-24.jpg…]()
+*7-segment display showing the counter value.*
+
 #📜 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
